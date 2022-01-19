@@ -2,9 +2,13 @@
 
 (but done in 2022)
 
-## Prompts from [https://genuary2021.github.io/]
+See the results here: [Genuary 2021 but in 2022](https://pedantic-darwin-407b2c.netlify.app/)
 
-1. Triple Nested Loop
+## Prompts
+
+from [genuary2021.github.io](https://genuary2021.github.io/)
+
+1. ~~Triple Nested Loop~~
 2. [Rule 30](https://www.wolframalpha.com/input/?i=rule+30)
 3. Make something human
 4. Small Areas of Symmetry
