@@ -1,0 +1,64 @@
+/**
+ * Copyright 2022 Grayson Hay.
+ * SPDX-License-Identifier: MIT
+ */
+figure {
+  margin: 0;
+  background: #151515;
+  padding: 1rem;
+  border-radius: calc(1.613rem / 10);
+  height: 100%;
+  box-shadow: 0 0 2px #f3bbca;
+}
+
+a {
+  text-decoration: none;
+  color: #f3bbca;
+}
+
+body {
+  margin: 1rem;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 10pt;
+  color: #151515;
+  background: #eaeaea;
+}
+
+h1 {
+  font-size: calc(1.613rem * 3);
+}
+
+#dailyGrid {
+  display: flex;
+  grid-template-columns: repeat(7, 1fr);
+  grid-auto-rows: minmax(100px, auto);
+  list-style: none;
+  padding: 0;
+  gap: 2rem;
+}
+
+#dailyGrid li {
+  aspect-ratio: 1280/720;
+  max-width: 100%;
+}
+
+#dailyGrid li img {
+  max-width: 100%;
+  border-radius: calc(1.613rem / 10);
+  box-shadow: 0 0 2px #f3bbca25;
+}
+
+figure figcaption {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 1rem;
+  margin: calc(1.613rem / 2) 0 0 0;
+}
+
+figure figcaption h1 {
+  display: inline-block;
+  line-height: 1.15rem;
+  font-size: calc(1.613rem * 1.25);
+  margin: 0;
+}
