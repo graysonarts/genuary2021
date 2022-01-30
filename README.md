@@ -13,7 +13,7 @@ from [genuary2021.github.io](https://genuary2021.github.io/)
 3. ~~Make something human~~
 4. ~~Small Areas of Symmetry~~
 5. ~~Do Some code golf (How little code can you write to make something interesting, share code and sketch together)~~
-6. Triangle Subdivision
+6. ~Triangle Subdivision~
 7. Generate some rules, then follow them by hand on paper
 8. Curve only
 9. Interference Patterns

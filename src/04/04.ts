@@ -131,7 +131,6 @@ const sketch = (p5: p5) => {
     }
 
     let lastCandidateSize = { ...candidate };
-    c;
     while (candidate.size < MAX_SIZE && !doesCollideWithExisting(candidate)) {
       lastCandidateSize = { ...candidate };
       candidate.size += 0.001;
