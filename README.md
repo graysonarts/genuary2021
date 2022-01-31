@@ -2,7 +2,7 @@
 
 (but done in 2022)
 
-See the results here: [Genuary 2021 but in 2022](https://pedantic-darwin-407b2c.netlify.app/)
+See the results here: [Genuary 2021 but in 2022](https://graysonarts-genuary.netlify.app/)
 
 ## Prompts
 
@@ -13,8 +13,8 @@ from [genuary2021.github.io](https://genuary2021.github.io/)
 3. ~~Make something human~~
 4. ~~Small Areas of Symmetry~~
 5. ~~Do Some code golf (How little code can you write to make something interesting, share code and sketch together)~~
-6. ~Triangle Subdivision~
-7. Generate some rules, then follow them by hand on paper
+6. ~~Triangle Subdivision~~
+7. Generate some rules, then follow them by hand on paper _skipping_ (for now)
 8. Curve only
 9. Interference Patterns
 10. Tree
