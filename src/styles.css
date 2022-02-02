@@ -7,8 +7,8 @@ figure {
   background: #151515;
   padding: 1rem;
   border-radius: calc(1.613rem / 10);
-  height: 100%;
-  box-shadow: 0 0 2px #f3bbca;
+
+  box-shadow: 10px 10px 20px #d7d7d7, -10px -10px 20px #fdfdfd;
 }
 
 a {
@@ -30,16 +30,15 @@ h1 {
 
 #dailyGrid {
   display: flex;
-  grid-template-columns: repeat(7, 1fr);
-  grid-auto-rows: minmax(100px, auto);
+  flex-wrap: wrap;
   list-style: none;
   padding: 0;
   gap: 2rem;
 }
 
 #dailyGrid li {
+  max-width: 12.5vw;
   aspect-ratio: 1280/720;
-  max-width: 100%;
 }
 
 #dailyGrid li img {
@@ -57,7 +56,6 @@ figure figcaption {
 }
 
 figure figcaption h1 {
-  display: inline-block;
   line-height: 1.15rem;
   font-size: calc(1.613rem * 1.25);
   margin: 0;

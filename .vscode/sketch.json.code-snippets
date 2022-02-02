@@ -63,6 +63,7 @@
     "prefix": "sketch",
     "description": "The boiler plate for a sketch file",
     "body": [
+      "      <!DOCTYPE html>",
       "      <html lang=\"en\">",
       "      <head>",
       "        <meta charset=\"UTF-8\" />",
